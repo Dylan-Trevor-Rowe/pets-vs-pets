@@ -1,0 +1,52 @@
+.card_Containers {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-img-top {
+  height: 300px;
+}
+
+#fighterOneSelect {
+  display: flex;
+  width: min-content;
+}
+
+#fighterTwoSelect {
+  display: flex;
+  width: min-content;
+}
+
+.selectContainer {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.card-title {
+  display: flex;
+  justify-content: center;
+}
+
+.cardHolder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.card-text {
+  display: flex;
+  align-self: center;
+}
+.button_Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
